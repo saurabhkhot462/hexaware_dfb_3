@@ -1,0 +1,16 @@
+---------------------1--------------
+
+brand=input("Enter brand")
+
+if brand=="OT":
+    print("bad for health")
+    print("Do not take.....")
+elif brand=="KF":
+    print("Good for health")
+    
+else:
+    print("Ok for health")
+
+
+---------------- 2 --------------------   
+
